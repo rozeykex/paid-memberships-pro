@@ -1,0 +1,25 @@
+{
+  "name": "strangerstudios/paid-memberships-pro",
+  "description": "Paid Memberships Pro - A revenue-generating machine for membership sites. Unlimited levels with recurring payment, protected content and member management.",
+  "homepage": "http://www.paidmembershipspro.com/",
+  "version": "v1.8.8.4",
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "Stranger Studios",
+      "homepage": "https://github.com/strangerstudios"
+    }
+  ],
+  "support": {
+    "docs": "http://www.paidmembershipspro.com/documentation",
+    "issues": "https://github.com/strangerstudios/paid-memberships-pro/issues",
+    "forum": "http://wordpress.org/tags/paid-memberships-pro?forum_id=10",
+    "source": "https://github.com/strangerstudios/paid-memberships-pro"
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "~1.0.12",
+    "johnpbloch/wordpress": ">=3.5"
+  }
+}
